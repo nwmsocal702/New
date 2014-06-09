@@ -1,6 +1,5 @@
 # Command to easily retrieve and display up to date weather information inside terminal
 # Downloads data from the National Weather service weather.noaa.gov in pure text form
-# To find station ID 
 # Enter 4-letter ICAO station identifier of station closest to you and replace 'KRIV.TXT' in command with your station id
 # Example: curl weather.noaa.gov/pub/data/observations/metar/decoded/your_four_letter_station_id.TXT
 
