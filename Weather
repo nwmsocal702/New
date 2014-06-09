@@ -1,0 +1,5 @@
+# Command to easily retrieve and display up to date weather information inside terminal
+#
+
+
+curl weather.noaa.gov.pub/data/observations/metar/decoded/KRIV.TXT
