@@ -3,4 +3,8 @@
 # Enter 4-letter ICAO station identifier of station closest to you and replace 'KRIV.TXT' in command with your station id
 # Example: curl weather.noaa.gov/pub/data/observations/metar/decoded/your_four_letter_station_id.TXT
 
+# Find 4 letter ICAO station identifier of station nearest you from this list
+# http://weather.noaa.gov/data/nsd_cccc.txt
+
+
 curl weather.noaa.gov.pub/data/observations/metar/decoded/KRIV.TXT
